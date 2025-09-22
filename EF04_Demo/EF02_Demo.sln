@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF02_Demo", "EF01_Demo\EF02_Demo.csproj", "{A3653A96-8F4A-4C9C-A716-CEE3710F5E17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InhertinceMapping", "InhertinceMapping\InhertinceMapping.csproj", "{83F04C3B-D540-4582-B7D2-3DE375E68667}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3653A96-8F4A-4C9C-A716-CEE3710F5E17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3653A96-8F4A-4C9C-A716-CEE3710F5E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3653A96-8F4A-4C9C-A716-CEE3710F5E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3653A96-8F4A-4C9C-A716-CEE3710F5E17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83F04C3B-D540-4582-B7D2-3DE375E68667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83F04C3B-D540-4582-B7D2-3DE375E68667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83F04C3B-D540-4582-B7D2-3DE375E68667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83F04C3B-D540-4582-B7D2-3DE375E68667}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
